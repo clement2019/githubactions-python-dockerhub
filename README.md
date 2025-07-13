@@ -1,1 +1,1 @@
-# githubactions-python-dockerhub
+# githubactions-python-dockerhub for python project
